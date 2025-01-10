@@ -107,7 +107,7 @@ dependencies {
   implementation("org.apache.groovy:groovy-json:4.0.24")
 
   api("com.squareup.moshi:moshi:1.15.2")
-  implementation("com.google.re2j:re2j:1.7")
+  implementation("com.google.re2j:re2j:1.8")
 
   implementation("org.slf4j:slf4j-api:2.0.16")
   testImplementation("ch.qos.logback:logback-classic:[1.2,2)!!1.3.14")
