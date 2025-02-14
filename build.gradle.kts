@@ -9,7 +9,7 @@ plugins {
 val dependencyVersions = listOf(
   "com.squareup.okio:okio-jvm:3.10.2",
   "net.bytebuddy:byte-buddy:1.17.0",
-  "net.bytebuddy:byte-buddy-agent:1.17.0",
+  "net.bytebuddy:byte-buddy-agent:1.17.1",
   "org.apache.commons:commons-compress:1.27.1",
   "org.apache.commons:commons-lang3:3.17.0",
   "org.bouncycastle:bcpkix-jdk18on:1.80",
